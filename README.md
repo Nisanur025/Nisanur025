@@ -31,7 +31,7 @@
 ---
 
 ### 📫 Connect with me
-- ✉️ Email: [025nisanur@gmail.com](mailto:025nisanur@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nisanur-t%C3%BCrkmen-b836aa305/)
+- ✉️ [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:025nisanur@gmail.com)  
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nisanur-t%C3%BCrkmen-b836aa305/)
 
 ---
