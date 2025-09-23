@@ -32,10 +32,10 @@
 
 ### 📫 Connect with me
 - <a href="mailto:025nisanur@gmail.com">
-    [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+    [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />]
   </a>
 - <a href="https://www.linkedin.com/in/nisanur-t%C3%BCrkmen-b836aa305/">
-    [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
+    [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />]
   </a>
 
 ---
