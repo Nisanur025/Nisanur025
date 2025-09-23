@@ -31,7 +31,11 @@
 ---
 
 ### 📫 Connect with me
-- [![Gmail](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg)](mailto:025nisanur@gmail.com)  
-- [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/nisanur-t%C3%BCrkmen-b836aa305/)
+- <a href="mailto:025nisanur@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" height="30"/>
+  </a>
+- <a href="https://www.linkedin.com/in/nisanur-t%C3%BCrkmen-b836aa305/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
+  </a>
 
 ---
