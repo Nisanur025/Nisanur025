@@ -30,7 +30,7 @@
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with me
 - ✉️ Email: [025nisanur@gmail.com](mailto:025nisanur@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nisanur-t%C3%BCrkmen-b836aa305/)
 
